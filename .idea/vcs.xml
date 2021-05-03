@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/APIjuan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjerCola" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjercicioFiguras_polimorfismo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Minimo1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Website" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ejemploAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minimo1_Examen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/minimo1_ejemplo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/polimorfismo_figuras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rest-example" vcs="Git" />
+  </component>
+</project>
